@@ -9,4 +9,7 @@ public class Sample {
     public void factorialMethod(){
         System.out.println("THis is method for factorial");
     }
+    public int add(int a,int b){
+        return a+b;
+    }
 }
