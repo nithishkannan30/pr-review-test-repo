@@ -5,4 +5,8 @@ public class Sample {
     public void print(){
         System.out.println("hi");
     }
+
+    public void factorialMethod(){
+        System.out.println("THis is method for factorial");
+    }
 }
